@@ -1,0 +1,279 @@
+﻿{
+	"general" : {
+		"close" : "Fechar",
+		"back" : "Voltar",
+		"apply" : "Aplicar",
+		"none" : "Nenhum",
+		"reset" : "Desfazer",
+		"inputplaceholder" : "Colocar texto...",
+		"previous" : "Prévio",
+		"next" : "Seguinte"
+	},
+	"mainmenu" : {
+		"singleplayer" : "Singleplayer",
+		"multiplayer" : "Multiplayer",
+		"settings" : "Definições",
+		"info" : "Informação",
+		"quit" : "Sair",
+		"back"  : "Voltar",
+	},
+	"singleplayermenu" : {
+		"newworld" : "Novo mundo",
+		"colonyname" : "Noma da Colônia",
+		"spawnmonsters" : "Gerar monstros",
+		"doubledmonsters" : "Dobrar o número de monstros",
+		"daymonsters" : "Monstros durante do dia",
+		"loadworld" : "Carregar Mundo",
+		"load" : "Carregar",
+		"worldname" : "Nome",
+		"worlddate" : "Data",
+		"play" : "Jogar",
+		"delete" : "Apagar",
+	}
+	"multiplayermenu" : {
+		"joininternet" : "Entrar Online",
+		"joininternetmenu" : "Juntar-se a um servidor",
+		"joinserverlan" : "Entrar numa Lan",
+		"joinserverlanfull" : "Juntar-se a um servidor Lan",
+		"servername" : "Nome",
+		"serverplayers" : "Jogadores",
+		"serverping" : "Ping",
+		"hostserver" : "Hospedar Servidor",
+		"connectlocal" : "Conectar a servidor local",
+		"connect" : "Conectar ao servidor selecionado",
+		"refresh" : "Atualizar",
+		"refreshing" : "Atualizando...",
+		"hostserverdescription" : "Tu podes hospedar um novo servidor abrindo o seguinte ficheiro atravês do explorador de ficheiros:\nVai às propriedade do jogo na steam e clica 'Ver pasta de instalação'. Abre 'colonyserver.exe' para hospedar um novo servidor.",
+		"startserver" : "Começar servidor"
+	},
+	"settingsmenu" : {
+		"qualitymaximum" : "Máximo",
+		"qualityveryhigh" :"Muito Alto",
+		"qualityhigh": "Alto",
+		"qualitymedium" : "Médio",
+		"qualitylow" : "Baixo",
+		"qualityverylow" : "Muito Baixo",
+		"qualityon" : "On",
+		"qualityoff" : "Off",
+		"video" : "Vídeo",
+		"videomenu" : {
+			"full" : "Definições de Vídeo",
+			"resolution" : "Resolução",
+			"fullscreen" : "Encrã Inteiro",
+			"vsync" : "VSync",
+			"vsyncdouble" : "Double",
+			"anisotropic" : "Anisotropic filtering x16",
+			"shaderquality" : "Qualidade da Sombra",
+			"sunshadowquality" : "Qualidade da Sombra do Sol",
+			"sunshadowcascades" : "Camadas de Sombra",
+			"sunshadowdistance" : "Distância das Sombras",
+			"fieldofview" : "Campo de Visão",
+			"lightscattering" : "Espalho de Luz",
+			"ambientocclusion" : "Oclusão de Ambiente",
+			"eyeadaptation" : "Adaptação do Olho",
+			"bloom" : "Incandescência",
+			"ambientreflections" : "Reflexões do Ambiente",
+			"depthoffield" : "Focus do Olhar",
+			"antialiasing" : "Antisserrilhamento",
+			"fxaalow" : "FXAA Baixo",
+			"fxaamedium" : "FXAA Médio",
+			"fxaahigh" : "FXAA Alto",
+			"taa" : "Anti Análise",
+			"skyboxveryslow" : "Skybox muito baixo",
+			"skyboxslow" : "Skybox baixo",
+			"skyboxfrequent" : "Skybox frequente",
+			"skyboxveryfrequent" : "Skybox muito frequente",
+			"skyboxconstant" : "Skybox constante",
+			"terrainfrequent" : "Terreno frequente",
+			"terrainveryfrequent" : "Terreno muito frequente",
+			"terrainconstant" : "Terreno constante"
+		},
+		"audio" : "Audio",
+		"audiomenu" : {
+			"full" : "Definições de Audio",
+			"mastervolume" : "Volume Principal",
+			"effectsvolume" : "Volume de Efeitos",
+			"ambientvolume" : "Volume Ambiente",
+			"torchvolume" : "Volume da Torcha",
+			"menuvolume" : "Menu de Volume"
+		},
+		"gameplay" : "Jogabilidade",
+		"gameplaymenu" : {
+			"full" : "Definições de Jogabilidade",
+			"mousesettings" : "Definições de Rato",
+			"keymapping" : "Manuseamento do Rato",
+			"mousemenu" : {
+				"sensitivityx" : "Sensibilidade no eixo-X",
+				"sensitivityy" : "Sensibilidade no eixo-Y",
+				"sensitivitylock" : "Ligar os dois eixos",
+				"invertx" : "Inverter eixo-X",
+				"inverty" : "Inverter eixo-Y",
+				"smooth" : "Sensibilidade do Rato",
+				"smoothx" : "Sensibilidade do Rato no eixo-X",
+				"smoothy" : "Sensibilidade do Rato no eixo-Y",
+				"smoothlock" : "Ligar a sensiblidade do rato nos eixos."
+			},
+			"keymenu" : {
+				"resetall" : "Desfazer Tudo"
+			}
+		},
+		"language" : "Língua",
+		"languagemenu" : {
+			"full" : "Definições de Língua",
+			"wiptext" : "Trabalho em Progresso. Não cobre todo o texto em jogo, e alguma traduções poderão cobrir menos que outras.",
+			"language" : "Língua"
+		}
+	},
+	"infomenu" : {
+		"quickstart" : "Começo Rápido",
+		"credits" : "Creditos",
+		"changelog" : "Lista de Actualizações"
+	},
+	"escapemenu" : {
+		"back" : "Returnar ao Jogo",
+		"settings" : "Definições",
+		"info" : "Informação",
+		"quitmain" : "Sair para o menu principal",
+		"quitdesktop" : "Sair para o ambiente de trabalho",
+	},
+	"popup" : {
+		"banner" : {
+			"header" : "Gestão de Colônia",
+			"description" : "Colonistas precisam de 5 unidade de comida por dia, e uma cama. Recrutar um colonista gasta 50 unidade de comida.",
+			"button" : "Recrutar um colonista",
+			"resetbutton" : "Desfazer colonista",
+			"resettooltipa" : "",
+			"resettooltipb" : "Isto mata todos os teus colonistas e remove os teus campos de trabalho.",
+			"resettooltipc" : "Também te dá um novo inventário e previsões."
+		},
+		"bannerremoval" : {
+			"header" : "Remoção da Bandeira",
+			"description" : "Remover a bandeira causará problemas com a tua colônia. Que queres fazer?",
+			"button" : "Remover",
+		},
+		"tooljob" : {
+			"header" : "Ferramento de Comando",
+			"description" : "Seleciona o tipo de área que queres criar.",
+			"wheatfarmer" : "Agricultor de Trigo",
+			"wheata" : "Apenas para colônias avançadas",
+			"wheatb" : "Precisa: Sementes de Trigo",
+			"wheatc" : "Coloca a relva ou terra",
+			"miner" : "Mineiro",
+			"minera" : "Mina Minerais",
+			"minerb" : "Precisa: Picareta",
+			"minerc" : "Colocar na camada mais funda do mundo",
+			"forester" : "Silvícoltor",
+			"forestera" : "Planta e corta àrvores",
+			"foresterb" : "Precisa: Semente brotada e um machado",
+			"foresterc" : "Coloca a relva ou terra",
+			"flaxfarmer" : "Agricultor de Linho",
+			"flaxa" : "Apenas para colônias avançadas",
+			"flaxb" : "Precisa: Sementes de Linho",
+			"flaxc" : "Coloca a relva ou terra",
+			"notflat" : "Terreno Irregular",
+			"toosmall" : "Demasiado Pequeno",
+			"toolarge" : "Demasiado Grande",
+			"coversarea" : "Cobre àrea existente",
+			"toonarrow" : "Demasiado estreito para àrvores",
+			"notarable" : "Terreno Infértil",
+			"occupiedblocks" : "Ocupado por blocos",
+			"wheatfarmertool" : "Ferramenta de Agricultor de Linho",
+			"minertool" : "Ferramenta de Mineiro",
+			"forestertool" : "Ferramenta de Silvícultor",
+			"flaxfarmertool" : "Ferramenta de Agricultor de Trigo",
+			"notool" : "Nenhuma ferramenta selecionada",
+			"berryfarmertool" : "Ferramenta de Agricultor de Bagas",
+			"berryfarmer" : "Agricultor de Bagas",
+			"berrya" : "Comida rápida e fácil, começa com isto!",
+			"berryb" : "Coloca a relva ou terra",
+			"berryc" : ""
+		},
+		"toolconstruction" : {
+			"header" : "Ferramenta de Construção",
+			"description" : "Seleciona o tipo de área que queres criar.",
+			"builder" : "Construtor",
+			"buildera" : "",
+			"builderb" : "Precisa de uma área de construção",
+			"builderc" : "Constrói coisas",
+			"destroyer" : "Destruidor",
+			"destroyera" : "",
+			"destroyerb" : "Precisa de uma área de destruição",
+			"destroyerc" : "Destroi coisas",
+		},
+		"areaselection" : {
+			"header" : "Menu de Área",
+			"description" : "Escolhe se realmente queres remover esta área.",
+			"close" : "Fechar",
+			"remove" : "Remover área",
+		},
+		"inventory" : {
+			"crafting" : "Construção",
+			"stockpile" : "Previsões",
+			"stockpiledescription" : "Só consegues construir com elementos nos espaços no fundo. Colonistas só conseguem usar elementos das tuas previsões.",
+			"foodvalue" : "Valor de Comida:",
+			"tooltip" : {
+				"needs" : "Precisa: ",
+				"and" : "e"
+			}
+		},
+		"limits" : {
+			"crafting" : "Limite de Contruções",
+			"baking" : "Limite de Cozinheiros",
+			"smelting" : "Limite de Fundidores",
+			"minting" : "Limite de Criadores de Moedas",
+			"shopping" : "Limite de Compradores",
+			"grinding" : "Limite de Esmerilhamento",
+			"description" : "Os colonistas vão trabalhar até chegarem ao limite definido de previsões."
+		},
+		"death" : {
+			"description" : "Já foste... Iniciando novo Jogo...",
+			"respawn" : "Brincadeira"
+		},
+		"quickstart" : {
+			"previous" : "Anterior",
+			"next" : "Seguinte",
+			"openmanual" : "Abrir Manual (PDF)",
+			"closehelp" : "Carregar F1 para fechar o reabrir reabrir este menu",
+			"closetoggle" : "Do not show this again"
+		}
+	},
+	"firstpersonstats" : {
+		"bedcount": "Camas:",
+		"colonistcount" : "Colonistas:",
+		"laborercount" : "Desempregados:",
+		"foodstorage" : "Comida:",
+		"foodusage" : "Gastando:",
+		"arrowcount" : "Flechas:"
+	},
+	"quickstart" : {
+		"page1" : {
+			"header" : "Básico",
+			"description" : "Bem Vindo a Colony Survival!",
+			"text1" : "A bandeira é o centro da tua colônia. Carrega \"2\" para a colocar. Botão direito na bandeira para recrutar colonistas.",
+			"text2" : "Tu precisas de comida e camas para recrutar colonistas. Colonistas precisam de comer para sobreviver. Confirma que tens comida suficiente, ou eles vão passar fome!",
+			"text3" : "Carrega \"I\" para construir um cama. Só consegues construir com elementos nos espaços no fundo. Colonistas só conseguem usar elementos das tuas previsões. Eles ganham acesso às previsões através das caixas.",
+			"text4" : "Os monstros vão atacar a tua colônia de noite! Usa aljavas para colocar arqueiros. Carrega 'R' para os rodar. Carrega 'G' para activar uma luz."
+		},
+		"page2" : {
+			"header" : "Produção de Comida",
+			"description" : "Irás precisas de comida para criar e sustentar colonistas!",
+			"text1" : "Usa o comando de ferramentas (carrega 1) para criar um Agrícultor de Bagas. Botão direito num bloco, escolhe o trabalho certo e cria uma área para o colonista. Botão esquerdo para mudar o tipo de trabalho. ",
+			"text2" : "Produzir pão é um processo complicado mas eficiente de produção de comida. Começa por fazer uma fazenda de trigo. Após duas noites o trigo estará pronto e os colonistas o recolherão. ",
+			"text3" : "Depois disso, vais precisas recrutar mais dois colonistas, um para moer trigo e outro para cozer o pão. A pedra de moer é utilizada para converter o trigo em farinha. Um cozinheiro vão usar a farinha para cozer o pão no forno."
+		},
+		"page3" : {
+			"header" : "Colony Defense",
+			"description" : "Defende a tua colônia contra os monstros à noite!",
+			"text1" : "À noite, os monstros vão atacar a tua colônia. Coloca guardas, constrói muralhas e escava fossos para defender a tua colônia. Os monstros não conseguem subir dois blocos.",
+			"text2" : "Não isoles por completo a tua colônia! Se não houver caminho possível até a bandeira, será ativado o 'Modo de Cerco'. Durante o Modo de Cerco, a comida guardada será consumida rápidamente.",
+			"text3" : "A quantidade de monstros aumenta quando a quantidade de colonistas cresce! Confirma que os teus guardas têm flechas suficientes."
+		},
+		"page4" : {
+			"header" : "Produção de Flechas",
+			"description" : "Sem flechas, os monstros vão dizimar os teus colonistas!",
+			"text1" : "A camada mais profunda do mundo, contém minerais infinitos. Botão direito nestes com o comando de ferramentas para definir mineiros para trabalhar. Não te esqueças de colocar uma caixa perto.",
+			"text2" : "Coloca uma fundição. Se houver um colonista desempregado, ele vai automaticamente ir para a fundição e começar a transformar ferro mineral em barras de ferro.",
+			"text3" : "Coloca uma mesa de trabalho para transformar um colonista num artesão. Ele vão automáticamente fazer flechas e outros elementos para ti."
+		}
+	}
+}
